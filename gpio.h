@@ -1,7 +1,7 @@
 
 /* 
- * File:   
- * Author: 
+ * File:gpio.h   
+ * Author: Eder Torres
  * Comments:
  * Revision history: 
  */

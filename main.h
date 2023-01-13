@@ -64,7 +64,6 @@
 #define UART1_INTERRUPT 1
 //#define UART2_INTERRUPT 1
 //#define SSP1_INTERRUPT 1
-//#define TIMER1_INTERRUPT 1
 
 #endif	
 
