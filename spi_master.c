@@ -5,8 +5,7 @@
  * The functions in this file initialize SSP1 for SPI communication as Master
  * it also controls Slave Select pins to select to communicate up to 4 devices 
  * within this function.
- * function can both be received and sent. For the robot, the "receive function" is not
- * used and it discards that information
+ * function can both be received and sent. 
  */
 
 
